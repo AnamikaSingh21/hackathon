@@ -1,0 +1,18 @@
+11:50:30.994 [main] INFO  testCases.TC_004_Login - Navigating back to homepage
+11:50:39.820 [main] INFO  testCases.TC_004_Login - Clicking on login button and switching to google Window
+11:50:40.072 [main] INFO  testCases.TC_004_Login - Clicking on google option
+11:50:41.886 [main] INFO  testCases.TC_004_Login - Passing wrong email address to email box
+11:50:45.129 [main] INFO  testCases.TC_004_Login - Capturing the error message and printing on consol
+11:50:45.801 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:50:45.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:50:45.833 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:50:45.836 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:50:45.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:50:45.838 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:50:45.840 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:50:45.841 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:50:45.841 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+11:50:45.842 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:50:45.844 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:50:45.845 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:50:45.845 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
